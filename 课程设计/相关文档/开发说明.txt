@@ -1,0 +1,20 @@
+开发环境：
+计算机：机械革命-深海泰坦X6Ti-S
+CPU：Inter(R) Core(TM) i7-7700HQ 2.80GHz
+显卡：NVIDIA GTX1050Ti 4GB
+操作系统：Windows 10 家庭中文版
+开发工具：
+Visual Studio 版本：Visual Studio 2017 
+Unity版本：2018.3.8.16519139
+PhotoShop版本：CC 2017 18.0.0.53
+
+Visual Studio 2017下载地址：https://visualstudio.microsoft.com/zh-hans/downloads/
+Unity 下载地址：https://unity3d.com/cn/get-unity/download
+PhotoShop推荐下载官方正版：https://www.adobe.com/cn/products/photoshop/free-trial-download.html
+
+以上所有开发工具及开发环境不需要开发者额外配置，均为一键安装，方便快捷。
+
+具体开发步骤：
+打开Unity之后，新建工程。
+找到开发包.zip并解压，将解压好的文件导入unity。
+找到场景并打开，完成项目导入。
